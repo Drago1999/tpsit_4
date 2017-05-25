@@ -1,0 +1,12 @@
+Come avrai notato il programma può essere molto migliorato. Scegli tu,
+quali modifiche apportare. Sotto trovi dei suggerimenti ma puoi anche
+scegliere di fare altro.
+
+Suggerimenti:
+
+- migliorare la grafica della finestra V
+- sostituire i nomi degli atleti con delle immagini V
+- aggiungere più atleti V
+- fare in modo che la corsa possa essere fatta ripartire senza dover riavviare il programma V
+- stampare l'ordine di arrivo completo V
+- aggiungere il suono di un eventuale sparo di avvio (molto difficile)
